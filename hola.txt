@@ -1,0 +1,3 @@
+hola mundo desde un archivo
+linea dos del archivo
+linea tres del archivo
